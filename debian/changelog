@@ -1,3 +1,9 @@
+pelias (20160507-ubuntu1~xenial2) xenial; urgency=medium
+
+  * Truncated the dependent version numbers.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 16:37:06 -0700
+
 pelias (20160507-ubuntu1~xenial1) xenial; urgency=medium
 
   * First creation of Pelias meta-package.
