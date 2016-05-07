@@ -1,0 +1,14 @@
+Source: pelias
+Maintainer: Michal Migurski <mike-launchpad@teczno.com>
+Priority: optional
+Section: database
+Build-Depends: debhelper
+
+Package: pelias
+Architecture: all
+Depends: pelias-api (= 2.2.0-ubuntu1), pelias-frontpage (= 0.0.1-ubuntu1),
+  pelias-openaddresses (= 2.1.0-ubuntu1), pelias-schema (= 3.1.0-ubuntu1),
+  elasticsearch (= 1.7.5), openjdk-8-jdk
+Section: database
+Homepage: https://github.com/pelias
+Description: Pelias geographic search engine meta-package. An open source project sponsored by Mapzen.

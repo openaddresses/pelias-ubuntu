@@ -1,0 +1,5 @@
+pelias (20160507-ubuntu1~xenial1) xenial; urgency=medium
+
+  * First creation of Pelias meta-package.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 16:21:01 -0700
