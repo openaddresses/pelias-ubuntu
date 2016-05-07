@@ -1,3 +1,9 @@
+pelias (20160507-ubuntu1~xenial3) xenial; urgency=medium
+
+  * Expanded the dependent version numbers instead.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 16:46:24 -0700
+
 pelias (20160507-ubuntu1~xenial2) xenial; urgency=medium
 
   * Truncated the dependent version numbers.
