@@ -6,7 +6,7 @@ Build-Depends: debhelper
 
 Package: pelias
 Architecture: all
-Depends: pelias-api (= 2.2.0-ubuntu1~xenial6), pelias-frontpage (= 0.0.1-ubuntu1~xenial4),
+Depends: pelias-api (= 2.2.0-ubuntu1~xenial6), pelias-frontpage (>= 0.0.1),
   pelias-openaddresses (= 2.1.0-ubuntu1~xenial2), pelias-schema (= 3.1.0-ubuntu1~xenial4),
   elasticsearch (= 1.7.5), openjdk-8-jdk
 Section: database
