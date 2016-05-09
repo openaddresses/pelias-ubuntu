@@ -7,6 +7,11 @@ by [Mapzen](http://mapzen.com). More information about the motivation
 behind this package and current plans can be found in
 [Ops issue #12](https://github.com/openaddresses/openaddresses-ops/issues/12).
 
+[Pelias Front Page](https://github.com/openaddresses/pelias-frontpage-ubuntu-xenial)
+provides an interactive index page for autocomplete and address search:
+
+![pelias-frontpage screen shot](pelias.png)
+
 Install
 -------
 
