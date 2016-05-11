@@ -8,7 +8,7 @@ Package: pelias
 Architecture: all
 Depends: pelias-api (= 2.2.0-ubuntu1~trusty1), pelias-frontpage (>= 0.0.1),
   pelias-openaddresses (= 2.1.0-ubuntu1~trusty1), pelias-schema (= 3.1.0-ubuntu1~trusty1),
-  elasticsearch (= 1.7.5), openjdk-8-jdk
+  elasticsearch (= 1.7.5), openjdk-7-jdk
 Section: database
 Homepage: https://github.com/pelias
 Description: Pelias geographic search engine meta-package. An open source project sponsored by Mapzen.
