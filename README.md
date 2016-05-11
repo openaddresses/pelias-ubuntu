@@ -15,7 +15,7 @@ provides an interactive index page for autocomplete and address search:
 Install
 -------
 
-Pelias is distributed for Ubuntu version 16.04 via the
+Pelias is distributed for Ubuntu version 14.04 via the
 [`openaddresses/geocoder` PPA](https://launchpad.net/~openaddresses/+archive/ubuntu/geocoder).
 
     # Tell Ubuntu where to find packages:

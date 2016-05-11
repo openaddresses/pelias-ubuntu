@@ -1,3 +1,9 @@
+pelias (20160507-ubuntu1~trusty1) trusty; urgency=medium
+
+  * Adapted for Ubuntu 14.04 release.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Tue, 10 May 2016 20:53:57 -0700
+
 pelias (20160507-ubuntu1~xenial4) xenial; urgency=medium
 
   * Updated pelias-frontpage dependency.
