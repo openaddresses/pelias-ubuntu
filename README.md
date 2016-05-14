@@ -33,4 +33,4 @@ These dependencies will be installed:
 * [Pelias OpenAddresses Adapter](https://github.com/openaddresses/pelias-openaddresses-ubuntu-xenial)
 * [Pelias Schema](https://github.com/openaddresses/pelias-schema-ubuntu-xenial)
 * [Elasticsearch database](https://www.elastic.co/products/elasticsearch)
-* [Java OpenJDK 8](http://openjdk.java.net)
+* [Java OpenJDK 7](http://openjdk.java.net)
