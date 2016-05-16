@@ -1,0 +1,4 @@
+#!/bin/sh -ex
+
+update-rc.d elasticsearch defaults
+/etc/init.d/elasticsearch start

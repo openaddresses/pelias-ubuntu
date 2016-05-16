@@ -1,3 +1,9 @@
+pelias (20160507-ubuntu1~trusty3) trusty; urgency=medium
+
+  * Added /etc/init.d calls to enable and start Elasticsearch. 
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Mon, 16 May 2016 04:00:20 -0700
+
 pelias (20160507-ubuntu1~trusty2) trusty; urgency=medium
 
   * Updated OpenJDK dependency to 1.7. 
