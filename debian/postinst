@@ -1,0 +1,4 @@
+#!/bin/sh -ex
+
+systemctl enable elasticsearch
+systemctl start elasticsearch

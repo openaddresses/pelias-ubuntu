@@ -1,3 +1,9 @@
+pelias (20160507-ubuntu1~xenial5) xenial; urgency=medium
+
+  * Added systemctl calls to enable and start Elasticsearch. 
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Mon, 16 May 2016 23:36:43 -0700
+
 pelias (20160507-ubuntu1~xenial4) xenial; urgency=medium
 
   * Updated pelias-frontpage dependency.
