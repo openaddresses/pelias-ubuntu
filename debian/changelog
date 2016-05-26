@@ -1,3 +1,9 @@
+pelias (20160507-ubuntu1~trusty4) trusty; urgency=medium
+
+  * Added Elasticsearch status check and schema creation. 
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Thu, 26 May 2016 16:08:48 -0700
+
 pelias (20160507-ubuntu1~trusty3) trusty; urgency=medium
 
   * Added /etc/init.d calls to enable and start Elasticsearch. 

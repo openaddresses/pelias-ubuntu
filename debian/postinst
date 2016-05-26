@@ -1,4 +1,16 @@
-#!/bin/sh -ex
+#!/bin/sh -e
 
 update-rc.d elasticsearch defaults
 /etc/init.d/elasticsearch start
+
+STATUS='localhost:9200/_cluster/health?pretty'
+
+while true; do
+	echo waiting for Elasticsearch to start...
+	sleep 10
+	if curl $STATUS -s | python -m json.tool | egrep -q '"status": "green"'; then
+		break
+	fi
+done
+
+pelias-schema-create-index
